@@ -1,6 +1,6 @@
 {
   "name": "@d3ce1t/nextjs-authentication",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tools to support authentication in NextJS",
   "main": "dist/main.js",
   "repository": {
